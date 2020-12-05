@@ -1,0 +1,15 @@
+C:\Users\monik\source\repos\.NET-ecosystem\WindowsSpecific\WindowsSpecific\bin\Debug\netcoreapp3.1\WindowsSpecific.exe
+C:\Users\monik\source\repos\.NET-ecosystem\WindowsSpecific\WindowsSpecific\bin\Debug\netcoreapp3.1\WindowsSpecific.deps.json
+C:\Users\monik\source\repos\.NET-ecosystem\WindowsSpecific\WindowsSpecific\bin\Debug\netcoreapp3.1\WindowsSpecific.runtimeconfig.json
+C:\Users\monik\source\repos\.NET-ecosystem\WindowsSpecific\WindowsSpecific\bin\Debug\netcoreapp3.1\WindowsSpecific.runtimeconfig.dev.json
+C:\Users\monik\source\repos\.NET-ecosystem\WindowsSpecific\WindowsSpecific\bin\Debug\netcoreapp3.1\WindowsSpecific.dll
+C:\Users\monik\source\repos\.NET-ecosystem\WindowsSpecific\WindowsSpecific\bin\Debug\netcoreapp3.1\WindowsSpecific.pdb
+C:\Users\monik\source\repos\.NET-ecosystem\WindowsSpecific\WindowsSpecific\obj\Debug\netcoreapp3.1\WindowsSpecific.csprojAssemblyReference.cache
+C:\Users\monik\source\repos\.NET-ecosystem\WindowsSpecific\WindowsSpecific\obj\Debug\netcoreapp3.1\WindowsSpecific.Form1.resources
+C:\Users\monik\source\repos\.NET-ecosystem\WindowsSpecific\WindowsSpecific\obj\Debug\netcoreapp3.1\WindowsSpecific.csproj.GenerateResource.cache
+C:\Users\monik\source\repos\.NET-ecosystem\WindowsSpecific\WindowsSpecific\obj\Debug\netcoreapp3.1\WindowsSpecific.AssemblyInfoInputs.cache
+C:\Users\monik\source\repos\.NET-ecosystem\WindowsSpecific\WindowsSpecific\obj\Debug\netcoreapp3.1\WindowsSpecific.AssemblyInfo.cs
+C:\Users\monik\source\repos\.NET-ecosystem\WindowsSpecific\WindowsSpecific\obj\Debug\netcoreapp3.1\WindowsSpecific.csproj.CoreCompileInputs.cache
+C:\Users\monik\source\repos\.NET-ecosystem\WindowsSpecific\WindowsSpecific\obj\Debug\netcoreapp3.1\WindowsSpecific.dll
+C:\Users\monik\source\repos\.NET-ecosystem\WindowsSpecific\WindowsSpecific\obj\Debug\netcoreapp3.1\WindowsSpecific.pdb
+C:\Users\monik\source\repos\.NET-ecosystem\WindowsSpecific\WindowsSpecific\obj\Debug\netcoreapp3.1\WindowsSpecific.genruntimeconfig.cache
